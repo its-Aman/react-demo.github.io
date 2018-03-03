@@ -1,0 +1,12 @@
+.game {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  
+  .game-info {
+    margin-left: 20px;
+  }
+  .game-board{
+      margin: 75px 5px;
+  }
